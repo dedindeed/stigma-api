@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "motd": "Stigma Ultimate Cloud is Live!",
+  "scripts": {
+    "Universal Fly": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+    "Cloud Nuke": "require(4832967293):Fire('USER')"
+  }
+}
